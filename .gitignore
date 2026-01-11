@@ -1,0 +1,14 @@
+# 数据库文件
+db.sqlite3
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境（如果在项目内）
+venv/
+env/
+
+# IDE 文件
+*.idea/
+*.vscode/
